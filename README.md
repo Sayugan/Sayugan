@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayugan</h1>
+<h1 align="center">Hi there 👋, I'm Sayugan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayugan&label=Profile%20views&color=0e75b6&style=flat" alt="sayugan" /> </p>
 
 - 🌱 I’m currently learning **React,Java,etc..**
