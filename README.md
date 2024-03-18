@@ -1,5 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Sayugan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayugan&label=Profile%20views&color=0e75b6&style=flat" alt="sayugan" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayugan!;" />
+</h1>
+<h3 align="center">Empowering the World's Tech Landscape with Passion-Fueled Code Innovations.</h3><br>
+<img align="right" alt="coding" width="400"  src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<p align="left" text-justify: inter-word> <img src="https://komarev.com/ghpvc/?username=abicosta&label=Profile%20views&color=0e75b6&style=flat" alt="Sayugan" /> </p>
 
 - 🌱 I’m currently learning **React,Java,etc..**
 
