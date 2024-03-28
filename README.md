@@ -3,7 +3,7 @@
 </h1>
 <p align="left" text-justify: inter-word> <img src="https://komarev.com/ghpvc/?username=abicosta&label=Profile%20views&color=0e75b6&style=flat" alt="Sayugan" /> </p>
 
-- 🌱 I’m currently learning **React,Flutter,etc..**
+- 🌱 I’m currently learning **React,Flutter,Wordpress,etc..**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Java,PHP,etc..**
 
